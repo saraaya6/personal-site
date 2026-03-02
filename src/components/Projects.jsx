@@ -7,9 +7,6 @@ const projects = [
         tags: ['React', 'Node.js', 'MongoDB'],
         icon: '🛒',
         demo: '#',
-
-
-        
         code: '#',
     },
     {
