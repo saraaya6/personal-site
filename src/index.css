@@ -797,6 +797,8 @@ img {
   background: rgba(139, 92, 246, 0.5);
 }
 
+
+
 /* ===== Mobile ===== */
 @media (max-width: 768px) {
   .navbar-links {
